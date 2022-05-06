@@ -7,3 +7,4 @@ Current interests are:
 - `GISci`: Spatial Data, Analytics, Presentation
 - `Data`: Storage, Optimization, Access
 - `FOSS`: Open-source Software Solutions
+- `Analysis`: Exploration, Transformation

@@ -8,3 +8,6 @@ Current interests are:
 - `Data`: Storage, Optimization, Access
 - `FOSS`: Open-source Software Solutions
 - `Analysis`: Exploration, Transformation
+---
+**NOTE**: Did you visit today because on my direction? Are you unfamiliar with Github or `git` in general?\
+You can follow **[this very well design guide](https://github.com/git-guides)** for a basic overview to get you started.

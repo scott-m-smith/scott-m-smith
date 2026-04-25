@@ -5,7 +5,7 @@ Sharing any projects I can as I develop my skills and contribute to others.
 
 Current interests are:
 - `GISci`: Spatial Data, Analytics, Presentation
-- `Data`: Storage, Optimization, Access
+- `Data`: Storage, Optimization, Access, Engineering
 - `FOSS`: Open-source Software Solutions
 - `Analysis`: Exploration, Transformation
 ---
